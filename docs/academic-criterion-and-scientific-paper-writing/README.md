@@ -86,7 +86,7 @@ VS Code多插件多功能，可管理文件，还有很多Git的扩展
 给每一篇论文建立一个项目主页，对宣传和讨论很重要，及时解决读者反馈
 
 
-
+There was an error committing your changes: File could not be edited
 
 
 
