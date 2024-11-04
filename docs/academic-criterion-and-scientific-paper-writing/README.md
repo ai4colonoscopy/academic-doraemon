@@ -85,8 +85,44 @@ VS Code多插件多功能，可管理文件，还有很多Git的扩展
 ## Project page
 给每一篇论文建立一个项目主页，对宣传和讨论很重要，及时解决读者反馈
 
+## 11.2 第三讲
+### content:novelty centrered
+新的问题，新的方法，组合创新
+content+style
+1. idea 2.your advance in the subject
+你希望把论文分享给这个领域，给他人带来益处
 
-There was an error committing your changes: File could not be edited
+原创性：发现新问题，新方法解决已有的问题，将已有的想法放在一起去解决已有问题
+
+方法必然要有提高：更快，更精确，更多思想假设
+选择一个最有利的切入点
+
+negative result也很有用，是一种创新的模式
+
+在每篇文章，只放一个好的观点。论文需要完整的描述，论证，并提供实验，说清一点就好
+
+novelty types
+找到一个新的问题很重要：足够具有挑战性，读者感兴趣，一个至少可行的方案
+一个新的方法：解决现有问题，其中的一些步骤
+找不同角度，创新性思考
+组合创新：合适的方法，组合的方式，clever
+useful insights
+
+### community and where to publish
+以方法为核心
+不同领域有不同的规则和相应期待
+graphics,vision,image processing
+
+IEEE TPAMI计算机视觉，最有影响力期刊
+IEEE TIP信号处理
+
+follow the expectations
+
+选择影响力高的期刊，在哪里发表论文很重要
+### structure
+摘要，论文主体
+### plan
+尽量早写完！然后反复修改，不断打磨，同时做实验去证实。
 
 
 
