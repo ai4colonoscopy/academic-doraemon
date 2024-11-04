@@ -39,3 +39,14 @@ Doraemon in the academic world, providing everything useful for your research.
 
 - [Remix Icon](https://remixicon.com/): Open-source neutral-style system symbols elaborately crafted for designers and developers. All of the icons are free for both personal and commercial use.
 - [Vecteezy](https://www.vecteezy.com/): Vecteezy is an online marketplace where users can license stock photos, vector graphics, and stock footage directly from artists.
+
+# 4. 学习资料库
+
+## 4.1. Awesome list推荐
+
+- [Awesome Segment Anything ](https://github.com/Hedlen/awesome-segment-anything)
+- [Autoregressive-Models-in-Vision-Survey](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
+
+## 4.2 大语言模型学习路线
+
+- [大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）](https://github.com/liguodongiot/llm-action)
