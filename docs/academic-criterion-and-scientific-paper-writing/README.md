@@ -1,6 +1,7 @@
 学术规范与论文写作
 =
 ## 10.30 第一讲
+
 主要介绍学术规范与论文写作的重要性，强调了学术不端行为的严重后果与论文写作对职业发展的重要性，并通过实际案例详细讲解了如何避免学术不端。
 ### 论文写作
 
@@ -36,27 +37,27 @@
 如何保持创新性？无意间查重率过高怎么办？
 
 ## 10.31 第二讲 Writing tips
-## overleaf
+
+### overleaf
 1.多人协作；版本控制工具；注释和讨论
 
 2.尽量用自己名字作为用户名，避免无意义数字
 
-## Git and TortoiseGit
-
+### Git and TortoiseGit
 Git是版本控制软件，overleaf中左上角图标有Git连接，可同步文件到本地
 
 尽可能频繁同步，换行，避免版本冲突
 
 注意error以及warning，逐一处理，尽量解决掉
 
-## Grammarly
+### Grammarly
 识别文字内容，避免语法错误的软件，在word里有相应插件可以使用
 
-## VS Code+Taxlive
+### VS Code+Taxlive
 VS Code多插件多功能，可管理文件，还有很多Git的扩展
 
 (未使用过)
-## Latex
+### Latex
 一个对科学文件写作的重要排版工具
 
 1.用newcommand命令定义新的command,保证前后一致性，后续可引用
@@ -70,9 +71,9 @@ VS Code多插件多功能，可管理文件，还有很多Git的扩展
 5.references,bib在copy后再次注意格式
 
 6.使用中文
-## Figures图
+### Figures图
 避免boring,重复，无信息量；图片中文字要能看清；Figure path and intermediate files同步拉入overleaf文档;避免不精确的内容，应严谨；
-## Checklist
+### Checklist
 1.避免limited novelty创新性有限：变一下展示方式
 
 2.用更好的方法展示结果
@@ -80,22 +81,26 @@ VS Code多插件多功能，可管理文件，还有很多Git的扩展
 3.尽量要做好比较，避免缺少必要实验，想想是否确实问题
 
 4.好的实践：开源代码增加可信；分析自己论文的优缺点；证明理论
-## Rebuttal
+### Rebuttal
 回复：分析审稿人意见，及时保存下来，利于修改论文
-## Project page
+### Project page
 给每一篇论文建立一个项目主页，对宣传和讨论很重要，及时解决读者反馈
 
 ## 11.2 第三讲
-### content:novelty centrered
 
+### content:novelty centrered
 新的问题，新的方法，组合创新
+
 content+style
-1. idea 2.your advance in the subject
+
+1.idea 2.your advance in the subject
+
 你希望把论文分享给这个领域，给他人带来益处
 
 原创性：发现新问题，新方法解决已有的问题，将已有的想法放在一起去解决已有问题
 
 方法必然要有提高：更快，更精确，更多思想假设
+
 选择一个最有利的切入点
 
 negative result也很有用，是一种创新的模式
@@ -103,6 +108,7 @@ negative result也很有用，是一种创新的模式
 在每篇文章，只放一个好的观点。论文需要完整的描述，论证，并提供实验，说清一点就好
 
 novelty types
+
 找到一个新的问题很重要：足够具有挑战性，读者感兴趣，一个至少可行的方案
 
 一个新的方法：解决现有问题，其中的一些步骤
@@ -114,7 +120,6 @@ novelty types
 useful insights
 
 ### community and where to publish
-
 以方法为核心
 
 不同领域有不同的规则和相应期待
@@ -127,6 +132,7 @@ IEEE TIP信号处理
 follow the expectations
 
 选择影响力高的期刊，在哪里发表论文很重要
+
 ### structure
 摘要，论文主体
 ### plan
