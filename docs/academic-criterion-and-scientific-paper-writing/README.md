@@ -87,6 +87,7 @@ VS Code多插件多功能，可管理文件，还有很多Git的扩展
 
 ## 11.2 第三讲
 ### content:novelty centrered
+
 新的问题，新的方法，组合创新
 content+style
 1. idea 2.your advance in the subject
@@ -103,14 +104,21 @@ negative result也很有用，是一种创新的模式
 
 novelty types
 找到一个新的问题很重要：足够具有挑战性，读者感兴趣，一个至少可行的方案
+
 一个新的方法：解决现有问题，其中的一些步骤
+
 找不同角度，创新性思考
+
 组合创新：合适的方法，组合的方式，clever
+
 useful insights
 
 ### community and where to publish
+
 以方法为核心
+
 不同领域有不同的规则和相应期待
+
 graphics,vision,image processing
 
 IEEE TPAMI计算机视觉，最有影响力期刊
