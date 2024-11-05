@@ -93,70 +93,72 @@ VS Code多插件多功能，可管理文件，还有很多Git的扩展
 
 content+style
 
-1.idea 2.your advance in the subject
+（1）idea （2）your advance in the subject
 
-你希望把论文分享给这个领域，给他人带来益处
+1.你希望把论文分享给这个领域，给他人带来益处
 
 原创性：发现新问题，新方法解决已有的问题，将已有的想法放在一起去解决已有问题
 
 方法必然要有提高：更快，更精确，更多思想假设
 
-选择一个最有利的切入点
+2.选择一个最有利的切入点
 
 negative result也很有用，是一种创新的模式
 
-在每篇文章，只放一个好的观点。论文需要完整的描述，论证，并提供实验，说清一点就好
+2.在每篇文章，只放一个好的观点。论文需要完整的描述，论证，并提供实验，说清一点就好
 
-novelty types
+3.novelty types
 
 找到一个新的问题很重要：足够具有挑战性，读者感兴趣，一个至少可行的方案
 
 一个新的方法：解决现有问题，其中的一些步骤
 
-找不同角度，创新性思考
+找不同角度：创新性思考
 
 组合创新：合适的方法，组合的方式，clever
 
-useful insights
+3.useful insights
 
 ### community and where to publish
-以方法为核心
+1.以方法为核心
 
-不同领域有不同的规则和相应期待
+2.不同领域有不同的规则和相应期待 follow the expectations
 
 graphics,vision,image processing
 
+3.选择影响力高的期刊，在哪里发表论文很重要
 IEEE TPAMI计算机视觉，最有影响力期刊
+
 IEEE TIP信号处理
-
-follow the expectations
-
-选择影响力高的期刊，在哪里发表论文很重要
-
 ### structure
 摘要，论文主体
 ### plan
 尽量早写完！然后反复修改，不断打磨，同时做实验去证实。
-
-## 11.4 The paper I
+## 11.3 第四讲 The paper 1
 
 ### 明确读者目标群体
-避免对读者的过多期待:
+1.避免对读者的过多期待，读者并不能很容易读懂文章，因此应做必要的解释说明和背景介绍
 
-避免大段章节
+2.避免大段章节
 
 每个章节集中讲一件事key idea
 
 different parts related to each other
 ### Abstract
-#### 1.
-文章的总结，必须是可独立存在的文档，具备逻辑上的自洽
+#### 
+1.文章的总结，必须是可独立存在的文档，具备逻辑上的自洽
 
 不怕重述文章内容，但避免直接拷贝内容到摘要
 
 随文章的变动及时更新摘要内容
-#### 2.
-topic and importance;ideas,methods,theories,findings;experimental evidence or theoretical proofs;conclutions
+#### 
+2.topic and importance;
+
+ideas,methods,theories,findings;
+
+experimental evidence or theoretical proofs;
+
+conclutions
 ### Introduction
 介绍问题，结论，方法，类似摘要的展开；问题背景；简单总结这个领域在过去的发展和方法；总结自己做的假设
 
@@ -164,7 +166,7 @@ topic and importance;ideas,methods,theories,findings;experimental evidence or th
 
 更广泛的背景知识
 
-假设，工作的方法，提前说清方法
+假设，工作的方法，提前说清
 
 说清重要的观察，让读者理解思维脉络
 ### Related Work
@@ -174,10 +176,77 @@ topic and importance;ideas,methods,theories,findings;experimental evidence or th
 
 说明我们新的工作相对于现有工作有什么改进，不同和更好；对别人的工作予以充分尊重
 
-不要只是浅浅介绍，还要分析现有工作为什么不能解决问题，而自己的工作可以解决
+不要只是介绍，还要分析现有工作为什么不能解决问题，而自己的工作可以解决
 ### Overview
+1.在描述之前做一个简单的概述
 
+2.主要部分main component；
+
+怎样被连接？和其他部分的关联，搭建整体衔接框架
+
+思维导图+视图
+
+在概述之后，详细解释每一个新颖的idea
+
+也要提供其他背景材料，便于理解approach
+
+3.说明自己的假设有什么合理性，如何使当前问题被简化。并非介绍怎么做，而是更多地去介绍为什么这么做，这样做的优势是什么。随后再详细展开，overview中可包含对后文详细章节解释的链接
 ### Detail Sections
+核心步骤，这是论文的主体部分
+
+足够多的detail,好的论文要有reproducibility。别人要能用你的方法复现
+
+常见问题：没有给读者解释背景（不要对读者有过高期望）；过多介绍细节，导致读者陷入；只是简单罗列公式算法
+## 11.5 第五讲 The paper 2
+
+### Theory
+1.formal statement
+
+不要只是陈列公式！
+
+形式化的精确的数学语言表达+通俗易懂的自然语言描述
+
+2.通过example解释理论，更加生动易懂
+### Algorithms
+1.先介绍算法的作用，贡献
+
+2.输出的结果是什么？怎样初始化？怎样控制结果，迭代速度/精确？
+
+3.按照正确的逻辑顺序书写
+
+4.不要给出过长的描述。
+（1）可采用伪代码来表述，自然语言辅助解释
+（2）还可考虑拆解算法。分解子过程
+
+5.若出现可调参数，需要详细若明（取值范围，怎样选取）
+
+6.算法的稳定性
+
+用实验验证鲁棒性，参数敏感性，算法适应性
+### Experimental Results
+1.半壁江山，占比很大
+
+做了什么，发现了什么did and found out,用过去时态，其他部分用现在时态
+
+2.不仅仅展示结果，任何实验都需要一个独立的，可以被明确界定的目的。
+可例如针对不同输入的输出，不同参数对实验的影响
+
+3.给出客观实验，而非主观判断。对比实验，比较得出无偏差的公平的结果
+
+4.steps:
+
+### Conclutions
+
+
+### Acknowledgements
+
+
+### References
+
+
+### Appendices
+
+
 
 
 
