@@ -138,6 +138,46 @@ follow the expectations
 ### plan
 尽量早写完！然后反复修改，不断打磨，同时做实验去证实。
 
+## 11.4 The paper I
+
+### 明确读者目标群体
+避免对读者的过多期待:
+
+避免大段章节
+
+每个章节集中讲一件事key idea
+
+different parts related to each other
+### Abstract
+#### 1.
+文章的总结，必须是可独立存在的文档，具备逻辑上的自洽
+
+不怕重述文章内容，但避免直接拷贝内容到摘要
+
+随文章的变动及时更新摘要内容
+#### 2.
+topic and importance;ideas,methods,theories,findings;experimental evidence or theoretical proofs;conclutions
+### Introduction
+介绍问题，结论，方法，类似摘要的展开；问题背景；简单总结这个领域在过去的发展和方法；总结自己做的假设
+
+对问题本身的说明，解释
+
+更广泛的背景知识
+
+假设，工作的方法，提前说清方法
+
+说清重要的观察，让读者理解思维脉络
+### Related Work
+简单的论述，说明自己了解这个领域；给审稿人信心；严谨地选择工作方法
+
+检查是否引用了对的论文
+
+说明我们新的工作相对于现有工作有什么改进，不同和更好；对别人的工作予以充分尊重
+
+不要只是浅浅介绍，还要分析现有工作为什么不能解决问题，而自己的工作可以解决
+### Overview
+
+### Detail Sections
 
 
 
