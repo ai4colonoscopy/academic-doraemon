@@ -22,6 +22,10 @@ Doraemon in the academic world, providing everything useful for your research.
 
 # 3. 写作
 
+## LaTeX
+
+- LaTex写作排版资源：https://github.com/guanyingc/latex_paper_writing_tips
+
 ## 语料库
 
 - 同义词替换：https://www.thesaurus.com/
