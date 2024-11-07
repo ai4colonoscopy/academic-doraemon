@@ -54,3 +54,10 @@ Doraemon in the academic world, providing everything useful for your research.
 ## 4.2 大语言模型学习路线
 
 - [大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）](https://github.com/liguodongiot/llm-action)
+
+# 5. 投稿
+
+## 顶级期刊会议
+
+CVPR ICCV ECCV
+ICLR 。。。。
