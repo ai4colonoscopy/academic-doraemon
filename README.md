@@ -56,7 +56,9 @@ Doraemon in the academic world, providing everything useful for your research.
 - [大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）](https://github.com/liguodongiot/llm-action)
 
 # 5. 投稿
-
+- [范老师主页](https://dengpingfan.github.io/pages/Accept.html)
+- [各领域顶会网址](https://research.com/conference-rankings/computer-science/computer-vision)
+- [会议和期刊](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 ## 顶级期刊会议
 
 CVPR ICCV ECCV
