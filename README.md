@@ -64,8 +64,8 @@ Doraemon in the academic world, providing everything useful for your research.
 - CVPR (Conference on Computer Vision and Pattern Recognition)：IEEE国际计算机视觉与模式识别会议，录取率25%左右
 - ICCV (International Conference on Computer Vision)：计算机视觉国际大会，评选出的最佳论文（马尔奖），最佳论文提名奖。是公认的三个会议中级别最高的，收录率一般在20%左右
 - ECCV(European Conference on Computer Vision)：欧洲计算机视觉国际会议，两年一次。每次会议在全球范围录用论文300篇左右，主要来自美国、欧洲等顶尖实验室及研究所，中国大陆的论文数量一般在10-20篇之间。论文录取率为27%
-- 
-  其他
+  
+其他
 - NeurIPS(Conference and Workshop on Neural Information Processing Systems)：神经信息处理系统大会，一个关于机器学习和计算神经科学的国际会议。
 NIPS是机器学习领域的顶级会议 。在中国计算机学会的国际学术会议排名中，NIPS为人工智能领域的A类会议。
 - ICLR：国际表征学习大会，公认的深度学习领域国际顶级会议之一
