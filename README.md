@@ -72,7 +72,7 @@ NIPS是机器学习领域的顶级会议 。在中国计算机学会的国际学
 - MICCAI：由国际医学图像计算和计算机辅助干预协会(Medical Image Computing and Computer Assisted Intervention Society) 举办，跨医学影像计算(MIC)和计算机辅助介入 (CAI) 两个领域的综合性学术会议，是该领域的顶级会议。2023年3月8日在中国计算机学会发布的中国计算机学会推荐国际学术会议和期刊目录-2022中被认定为B类会议。
 
 ## 期刊
-- TIP，全称：IEEE Transactions on Image Processing
+- TIP(IEEE Transactions on Image Processing)
 - IEEE SIGNAL PROCESSING LETTERS
 - IEEE TRANSACTIONS ON SIGNAL PROCESSING
 - COMPUTERIZED MEDICAL IMAGING AND GRAPHICS
