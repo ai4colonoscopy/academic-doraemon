@@ -59,14 +59,36 @@ Doraemon in the academic world, providing everything useful for your research.
 - [范老师主页](https://dengpingfan.github.io/pages/Accept.html)
 - [各领域顶会网址](https://research.com/conference-rankings/computer-science/computer-vision)
 - [会议和期刊](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-## 顶级期刊会议
+## 会议
 三大顶会
-
-- CVPR (Conference on Computer Vision and Pattern Recognition)：IEEE国际计算机视觉与模式识别会议。
-- ICCV (International Conference on Computer Vision)：计算机视觉国际大会，评选出的最佳论文（马尔奖），最佳论文提名奖
+- CVPR (Conference on Computer Vision and Pattern Recognition)：IEEE国际计算机视觉与模式识别会议，录取率25%左右
+- ICCV (International Conference on Computer Vision)：计算机视觉国际大会，评选出的最佳论文（马尔奖），最佳论文提名奖。是公认的三个会议中级别最高的，收录率一般在20%左右
 - ECCV(European Conference on Computer Vision)：欧洲计算机视觉国际会议，两年一次。每次会议在全球范围录用论文300篇左右，主要来自美国、欧洲等顶尖实验室及研究所，中国大陆的论文数量一般在10-20篇之间。论文录取率为27%
-  
-其他
-  
+- 
+  其他
+- NeurIPS(Conference and Workshop on Neural Information Processing Systems)：神经信息处理系统大会，一个关于机器学习和计算神经科学的国际会议。
+NIPS是机器学习领域的顶级会议 。在中国计算机学会的国际学术会议排名中，NIPS为人工智能领域的A类会议。
 - ICLR：国际表征学习大会，公认的深度学习领域国际顶级会议之一
 - MICCAI：由国际医学图像计算和计算机辅助干预协会(Medical Image Computing and Computer Assisted Intervention Society) 举办，跨医学影像计算(MIC)和计算机辅助介入 (CAI) 两个领域的综合性学术会议，是该领域的顶级会议。2023年3月8日在中国计算机学会发布的中国计算机学会推荐国际学术会议和期刊目录-2022中被认定为B类会议。
+
+## 期刊
+- TIP，全称：IEEE Transactions on Image Processing
+- IEEE SIGNAL PROCESSING LETTERS
+- IEEE TRANSACTIONS ON SIGNAL PROCESSING
+- COMPUTERIZED MEDICAL IMAGING AND GRAPHICS
+- PAMI，全称：IEEE Transactions on Pattern Analysis and Machine Intelligence
+- IEEE TRANSACTIONS ON MEDICAL IMAGING
+- IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT
+- IEEE TRANSACTIONS ON CONSUMER ELETRONICS
+- JOURNAL OF ELECTRONIC IMAGING
+- IMAGE AND VISION COMPUTING
+- CHINESE OPTICS LETTERS
+- SIGNAL PROCESSING
+- OPTICAL ENGINEERING
+
+
+
+
+
+
+
